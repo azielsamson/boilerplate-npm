@@ -1,6 +1,7 @@
 {
 	"author": "Aziel Jane Samson",
 	"description": "practicing backend",
+	"keywords": [ "descriptive", "related", "freecodecamp" ],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
